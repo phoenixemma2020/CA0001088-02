@@ -3,7 +3,7 @@
 <!--database config-->
 <configs>
   <location>2</location>
-  <path>C:\Users\NST\Desktop\TRTSystem3.3.1.1\Database</path>
+  <path>D:\CA0001088-02\TRTSystem3.3.0.0\Database</path>
   <filename>1687TRTDatabase.mdb</filename>
   <centerid>1687</centerid>
   <centername>คลินิกเวชกรรมรวมแพทย์หนองคาย (หน่วยไตเทียม 2)</centername>
