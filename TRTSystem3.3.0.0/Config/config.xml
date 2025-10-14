@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--NephroThai or Center-->
+<!--database config-->
+<configs>
+  <location>2</location>
+  <path>C:\Users\NST\Desktop\TRTSystem3.3.1.1\Database</path>
+  <filename>1687TRTDatabase.mdb</filename>
+  <centerid>1687</centerid>
+  <centername>คลินิกเวชกรรมรวมแพทย์หนองคาย (หน่วยไตเทียม 2)</centername>
+</configs>
